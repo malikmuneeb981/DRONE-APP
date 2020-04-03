@@ -1,0 +1,213 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.droneapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->[com.firebaseui:firebase-ui-database:2.3.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4805d4493baf485e2d474dd99ab9ffae\jetified-firebase-ui-database-2.3.0\AndroidManifest.xml:11:5-67
+11-->[com.firebaseui:firebase-ui-database:2.3.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4805d4493baf485e2d474dd99ab9ffae\jetified-firebase-ui-database-2.3.0\AndroidManifest.xml:11:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:21:5-78
+12-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:21:22-76
+13    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+13-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:22:5-67
+13-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:22:22-65
+14    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+14-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:23:5-81
+14-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:23:22-79
+15
+16    <permission
+16-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:25:5-109
+17        android:name="com.example.droneapp.permission.C2D_MESSAGE"
+17-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:25:17-71
+18        android:protectionLevel="signature" />
+18-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:25:72-107
+19
+20    <uses-permission android:name="com.example.droneapp.permission.C2D_MESSAGE" />
+20-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:27:5-78
+20-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:27:22-76
+21
+22    <application
+22-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:5:5-26:19
+23        android:allowBackup="true"
+23-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:6:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.0.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\e0fbe931aee3b8f6ac6e777aac58123c\core-1.0.2\AndroidManifest.xml:22:18-86
+25        android:debuggable="true"
+26        android:icon="@mipmap/ic_launcher"
+26-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:7:9-43
+27        android:label="@string/app_name"
+27-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:8:9-41
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:9:9-54
+29        android:supportsRtl="true"
+29-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:10:9-35
+30        android:testOnly="true"
+31        android:theme="@style/AppTheme" >
+31-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:11:9-40
+32        <activity android:name="com.example.droneapp.settings" />
+32-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:12:9-55
+32-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:12:19-43
+33        <activity android:name="com.example.droneapp.parkingtime" />
+33-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:13:9-49
+33-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:13:19-46
+34        <activity android:name="com.example.droneapp.addinglocation" />
+34-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:14:9-52
+34-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:14:19-49
+35        <activity android:name="com.example.droneapp.adminlocationaddition" />
+35-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:15:9-59
+35-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:15:19-56
+36        <activity android:name="com.example.droneapp.choosingparkinglot" />
+36-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:16:9-56
+36-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:16:19-53
+37        <activity android:name="com.example.droneapp.MainActivity" >
+37-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:17:9-23:20
+37-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:17:19-47
+38            <intent-filter>
+38-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:18:13-22:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:19:17-69
+39-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:19:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:21:17-77
+41-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:21:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity android:name="com.example.droneapp.register" />
+44-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:24:9-46
+44-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:24:19-43
+45        <activity android:name="com.example.droneapp.login" />
+45-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:25:9-43
+45-->E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:25:19-40
+46
+47        <meta-data
+47-->[com.firebaseui:firebase-ui-database:2.3.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4805d4493baf485e2d474dd99ab9ffae\jetified-firebase-ui-database-2.3.0\AndroidManifest.xml:14:9-16:69
+48            android:name="com.google.android.gms.version"
+48-->[com.firebaseui:firebase-ui-database:2.3.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4805d4493baf485e2d474dd99ab9ffae\jetified-firebase-ui-database-2.3.0\AndroidManifest.xml:15:13-58
+49            android:value="@integer/google_play_services_version" />
+49-->[com.firebaseui:firebase-ui-database:2.3.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4805d4493baf485e2d474dd99ab9ffae\jetified-firebase-ui-database-2.3.0\AndroidManifest.xml:16:13-66
+50
+51        <activity
+51-->[com.google.android.gms:play-services-base:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\50741a8fa37e543ae65d3b7a7366c9f2\jetified-play-services-base-11.6.2\AndroidManifest.xml:19:9-172
+52            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+52-->[com.google.android.gms:play-services-base:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\50741a8fa37e543ae65d3b7a7366c9f2\jetified-play-services-base-11.6.2\AndroidManifest.xml:19:19-85
+53            android:exported="false"
+53-->[com.google.android.gms:play-services-base:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\50741a8fa37e543ae65d3b7a7366c9f2\jetified-play-services-base-11.6.2\AndroidManifest.xml:19:146-170
+54            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+54-->[com.google.android.gms:play-services-base:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\50741a8fa37e543ae65d3b7a7366c9f2\jetified-play-services-base-11.6.2\AndroidManifest.xml:19:86-145
+55
+56        <receiver
+56-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:25:7-26:18
+57            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+57-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:25:17-89
+58            android:enabled="true"
+58-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:25:90-112
+59            android:exported="false" >
+59-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:25:113-137
+60        </receiver>
+61        <receiver
+61-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:27:7-31:18
+62            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+62-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:27:17-104
+63            android:enabled="true"
+63-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:27:162-184
+64            android:exported="true"
+64-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:27:185-208
+65            android:permission="android.permission.INSTALL_PACKAGES" >
+65-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:27:105-161
+66            <intent-filter>
+66-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:28:11-30:27
+67                <action android:name="com.android.vending.INSTALL_REFERRER" />
+67-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:29:15-76
+67-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:29:23-74
+68            </intent-filter>
+69        </receiver>
+70
+71        <service
+71-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:32:7-137
+72            android:name="com.google.android.gms.measurement.AppMeasurementService"
+72-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:32:16-87
+73            android:enabled="true"
+73-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:32:88-110
+74            android:exported="false" />
+74-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:32:111-135
+75        <service
+75-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:33:7-197
+76            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+76-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:33:16-90
+77            android:enabled="true"
+77-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:33:148-170
+78            android:exported="false"
+78-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:33:171-195
+79            android:permission="android.permission.BIND_JOB_SERVICE" />
+79-->[com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:33:91-147
+80
+81        <receiver
+81-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:31:9-36:20
+82            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+82-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:31:19-84
+83            android:exported="true"
+83-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:31:85-108
+84            android:permission="com.google.android.c2dm.permission.SEND" >
+84-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:31:109-169
+85            <intent-filter>
+85-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:32:13-35:29
+86                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+86-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:33:17-80
+86-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:33:25-78
+87
+88                <category android:name="com.example.droneapp" />
+88-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:34:17-60
+88-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:34:27-58
+89            </intent-filter>
+90        </receiver>
+91        <!--
+92 FirebaseInstanceIdService performs security checks at runtime,
+93             no need for explicit permissions despite exported="true"
+94        -->
+95        <service
+95-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:40:9-44:19
+96            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+96-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:40:18-82
+97            android:exported="true" >
+97-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:40:83-106
+98            <intent-filter android:priority="-500" >
+98-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:41:13-43:29
+98-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:41:28-51
+99                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+99-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:42:17-79
+99-->[com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:42:25-77
+100            </intent-filter>
+101        </service>
+102
+103        <provider
+103-->[com.google.firebase:firebase-common:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4a9ac2a3dfe3ce4f651485681d202696\jetified-firebase-common-11.6.2\AndroidManifest.xml:6:9-194
+104            android:name="com.google.firebase.provider.FirebaseInitProvider"
+104-->[com.google.firebase:firebase-common:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4a9ac2a3dfe3ce4f651485681d202696\jetified-firebase-common-11.6.2\AndroidManifest.xml:6:79-143
+105            android:authorities="com.example.droneapp.firebaseinitprovider"
+105-->[com.google.firebase:firebase-common:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4a9ac2a3dfe3ce4f651485681d202696\jetified-firebase-common-11.6.2\AndroidManifest.xml:6:19-78
+106            android:exported="false"
+106-->[com.google.firebase:firebase-common:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4a9ac2a3dfe3ce4f651485681d202696\jetified-firebase-common-11.6.2\AndroidManifest.xml:6:144-168
+107            android:initOrder="100" />
+107-->[com.google.firebase:firebase-common:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4a9ac2a3dfe3ce4f651485681d202696\jetified-firebase-common-11.6.2\AndroidManifest.xml:6:169-192
+108        <provider
+108-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\024ea0ce50edbf5c6fb56a3095e32be1\lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+109            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+109-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\024ea0ce50edbf5c6fb56a3095e32be1\lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+110            android:authorities="com.example.droneapp.lifecycle-process"
+110-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\024ea0ce50edbf5c6fb56a3095e32be1\lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+111            android:exported="false"
+111-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\024ea0ce50edbf5c6fb56a3095e32be1\lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+112            android:multiprocess="true" />
+112-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\024ea0ce50edbf5c6fb56a3095e32be1\lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+113    </application>
+114
+115</manifest>

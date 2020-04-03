@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "370453197158",
+    "firebase_url": "https://parking-with-drone.firebaseio.com",
+    "project_id": "parking-with-drone",
+    "storage_bucket": "parking-with-drone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370453197158:android:097993cbe4d96e53c318a7",
+        "android_client_info": {
+          "package_name": "com.example.droneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370453197158-ec9kmg0a8vtoafs6bdj60enff1v3lctu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.droneapp",
+            "certificate_hash": "561b4bbba03a2d8263e896e28f4e6e872bf2ce46"
+          }
+        },
+        {
+          "client_id": "370453197158-ek1odm9c5tjn6kl74t95lu8bjqhrn8jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsE5SYsmUc-yKdbcqDjT5VifLtJ9Ydxdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370453197158-ek1odm9c5tjn6kl74t95lu8bjqhrn8jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

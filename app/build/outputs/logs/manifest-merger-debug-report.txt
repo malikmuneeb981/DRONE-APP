@@ -1,0 +1,497 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\151f9b9858f4adc17a5dedd6795a10aa\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [cc.cloudist.acplibrary:library:1.2.1] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\fbdd4513379dd1b52df841fd6b81e20b\library-1.2.1\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\155da8816bded5314aee8803525ee313\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\60b95dd35523a43e1189252f158ae699\core-ktx-1.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7293ee69efc00ed1b5a2ec59fff69361\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\318ae329865cdf557d36f8f7ba19604e\jetified-firebase-auth-11.6.2\AndroidManifest.xml:16:1-21:12
+MERGED from [com.firebaseui:firebase-ui-database:2.3.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4805d4493baf485e2d474dd99ab9ffae\jetified-firebase-ui-database-2.3.0\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.firebase:firebase-database:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\f2cb149508fbcf4d10f38906554d7dfe\jetified-firebase-database-11.6.2\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\f93b39438ec8fe99a6a3c0ab3c2b745c\firebase-core-11.6.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\50741a8fa37e543ae65d3b7a7366c9f2\jetified-play-services-base-11.6.2\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database-connection:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\dda758822847cc867832913cba4c0ed8\jetified-firebase-database-connection-11.6.2\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\d70899169f0efede0c0dab588cb4f9ba\jetified-firebase-analytics-impl-11.6.2\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.firebase:firebase-common:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4a9ac2a3dfe3ce4f651485681d202696\jetified-firebase-common-11.6.2\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\43941fe3293dd27e0f52741f523b818f\jetified-play-services-tasks-11.6.2\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\0edbc89239742ae5b577bb948bfabc5b\jetified-play-services-basement-11.6.2\AndroidManifest.xml:16:1-23:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\33613757341e9982af16239cdaf38043\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\bcb82d968beaba5ec7933bf9f77bb400\lifecycle-extensions-2.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\222f2002da024cb60e24f7679ebe9dd5\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\d4de1886377a5373a2e2a8bec9f209e6\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\c4d431d8e42c8f91571c6f2811444ed3\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\6860a0b90fd5002e7d4546cf0afc6db3\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\eacbd0df0ae540f6b9bfb15ca61a6c77\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\b3893ee8721cfd39d31b3093eae64d3a\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\fec9acaa401d14d067db557d9b2f4e21\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\e9d9d8569c22ba6415b464556d13e521\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\2968a8f90999189ae29324a4f1f7ce37\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\45f8e6cd9ac9df5aa8506d85f445131b\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\f3a1a18d2529ffe594261761beb893fd\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\2e7693e9daf516f382a3f133d643d148\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\a9bdd12e8f748b002d6afe51fc925f87\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4e1800303e858e0bcd1c92f5af8128db\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\eba7b031104f8269d1a6422248108eee\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\77f98cbed359474880d77350a356799c\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\e0fbe931aee3b8f6ac6e777aac58123c\core-1.0.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\a798c4a845ddd20279a70b8d53a8211c\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\dafde8500cbfb98e37130188269bc632\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\689c4290cde174ca1493e888a574434a\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\024ea0ce50edbf5c6fb56a3095e32be1\lifecycle-process-2.0.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\8ba5b729052f88216dffbb408f465dd3\lifecycle-service-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\c4e320634a0f8a23763d57065c3c0af6\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\f7d87f92e95a723143dc057eb2eaef1d\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\e77b0c5b38e8d3dd2a41d3ae5eae87c4\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\c592519929bea829a1e2746ee5b673df\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\534686bb0282c6c8752592654be626a8\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7d2c34d56d71a17dc6e39915268c3570\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\094377495ab56eb59d4debe8cb869963\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\620b73c2dd41bf2cafa1b31d786df937\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\35eb5c1a0615116fbbbe1dd5ebbea155\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\0821a2f26afa9defdad13ef23a3194cf\firebase-auth-license-11.6.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\5b931c047893b68446beda1e2b3de035\firebase-database-license-11.6.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\1acba7771a9ccf1a09f55a612cf66301\play-services-base-license-11.6.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\35c03891cce3b8d3121ba30252a8edf3\play-services-basement-license-11.6.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\b3a5189b04854db7a2d1396ec6c63ab5\firebase-common-license-11.6.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\8ee2e04a154979234fe04f8461c1a7a3\play-services-tasks-license-11.6.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\46890267210d216ebc3b8d231530408a\firebase-database-connection-license-11.6.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\52288e5a40264667843e879b9cb88365\firebase-analytics-license-11.6.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\01b7f593bf5c3b45a79ce325020aab25\firebase-analytics-impl-license-11.6.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\eb7df390c8ec2cb3c30a5e95c0029930\firebase-iid-license-11.6.2\AndroidManifest.xml:2:1-6:12
+INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\151f9b9858f4adc17a5dedd6795a10aa\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\151f9b9858f4adc17a5dedd6795a10aa\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7293ee69efc00ed1b5a2ec59fff69361\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7293ee69efc00ed1b5a2ec59fff69361\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\318ae329865cdf557d36f8f7ba19604e\jetified-firebase-auth-11.6.2\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\318ae329865cdf557d36f8f7ba19604e\jetified-firebase-auth-11.6.2\AndroidManifest.xml:19:5-20:19
+MERGED from [com.firebaseui:firebase-ui-database:2.3.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4805d4493baf485e2d474dd99ab9ffae\jetified-firebase-ui-database-2.3.0\AndroidManifest.xml:13:5-17:19
+MERGED from [com.firebaseui:firebase-ui-database:2.3.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4805d4493baf485e2d474dd99ab9ffae\jetified-firebase-ui-database-2.3.0\AndroidManifest.xml:13:5-17:19
+MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\f93b39438ec8fe99a6a3c0ab3c2b745c\firebase-core-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\f93b39438ec8fe99a6a3c0ab3c2b745c\firebase-core-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\50741a8fa37e543ae65d3b7a7366c9f2\jetified-play-services-base-11.6.2\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\50741a8fa37e543ae65d3b7a7366c9f2\jetified-play-services-base-11.6.2\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\d70899169f0efede0c0dab588cb4f9ba\jetified-firebase-analytics-impl-11.6.2\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\d70899169f0efede0c0dab588cb4f9ba\jetified-firebase-analytics-impl-11.6.2\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-common:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4a9ac2a3dfe3ce4f651485681d202696\jetified-firebase-common-11.6.2\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4a9ac2a3dfe3ce4f651485681d202696\jetified-firebase-common-11.6.2\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\43941fe3293dd27e0f52741f523b818f\jetified-play-services-tasks-11.6.2\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\43941fe3293dd27e0f52741f523b818f\jetified-play-services-tasks-11.6.2\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\0edbc89239742ae5b577bb948bfabc5b\jetified-play-services-basement-11.6.2\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\0edbc89239742ae5b577bb948bfabc5b\jetified-play-services-basement-11.6.2\AndroidManifest.xml:19:5-21:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\bcb82d968beaba5ec7933bf9f77bb400\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\bcb82d968beaba5ec7933bf9f77bb400\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\e0fbe931aee3b8f6ac6e777aac58123c\core-1.0.2\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\e0fbe931aee3b8f6ac6e777aac58123c\core-1.0.2\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\a798c4a845ddd20279a70b8d53a8211c\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\a798c4a845ddd20279a70b8d53a8211c\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\024ea0ce50edbf5c6fb56a3095e32be1\lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\024ea0ce50edbf5c6fb56a3095e32be1\lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.firebase:firebase-auth-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\0821a2f26afa9defdad13ef23a3194cf\firebase-auth-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\0821a2f26afa9defdad13ef23a3194cf\firebase-auth-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\5b931c047893b68446beda1e2b3de035\firebase-database-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\5b931c047893b68446beda1e2b3de035\firebase-database-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\1acba7771a9ccf1a09f55a612cf66301\play-services-base-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\1acba7771a9ccf1a09f55a612cf66301\play-services-base-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\35c03891cce3b8d3121ba30252a8edf3\play-services-basement-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\35c03891cce3b8d3121ba30252a8edf3\play-services-basement-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\b3a5189b04854db7a2d1396ec6c63ab5\firebase-common-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\b3a5189b04854db7a2d1396ec6c63ab5\firebase-common-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\8ee2e04a154979234fe04f8461c1a7a3\play-services-tasks-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\8ee2e04a154979234fe04f8461c1a7a3\play-services-tasks-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\46890267210d216ebc3b8d231530408a\firebase-database-connection-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\46890267210d216ebc3b8d231530408a\firebase-database-connection-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\52288e5a40264667843e879b9cb88365\firebase-analytics-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\52288e5a40264667843e879b9cb88365\firebase-analytics-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\01b7f593bf5c3b45a79ce325020aab25\firebase-analytics-impl-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\01b7f593bf5c3b45a79ce325020aab25\firebase-analytics-impl-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\eb7df390c8ec2cb3c30a5e95c0029930\firebase-iid-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\eb7df390c8ec2cb3c30a5e95c0029930\firebase-iid-license-11.6.2\AndroidManifest.xml:5:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\e0fbe931aee3b8f6ac6e777aac58123c\core-1.0.2\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.droneapp.settings
+ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:12:9-55
+	android:name
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:12:19-43
+activity#com.example.droneapp.parkingtime
+ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:13:9-49
+	android:name
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:13:19-46
+activity#com.example.droneapp.addinglocation
+ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:14:9-52
+	android:name
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:14:19-49
+activity#com.example.droneapp.adminlocationaddition
+ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:15:9-59
+	android:name
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:15:19-56
+activity#com.example.droneapp.choosingparkinglot
+ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:16:9-56
+	android:name
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:16:19-53
+activity#com.example.droneapp.MainActivity
+ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.droneapp.register
+ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:24:9-46
+	android:name
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:24:19-43
+activity#com.example.droneapp.login
+ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:25:9-43
+	android:name
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml:25:19-40
+uses-sdk
+INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml
+INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\151f9b9858f4adc17a5dedd6795a10aa\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\151f9b9858f4adc17a5dedd6795a10aa\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [cc.cloudist.acplibrary:library:1.2.1] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\fbdd4513379dd1b52df841fd6b81e20b\library-1.2.1\AndroidManifest.xml:8:5-10:41
+MERGED from [cc.cloudist.acplibrary:library:1.2.1] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\fbdd4513379dd1b52df841fd6b81e20b\library-1.2.1\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\155da8816bded5314aee8803525ee313\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\155da8816bded5314aee8803525ee313\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\60b95dd35523a43e1189252f158ae699\core-ktx-1.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\60b95dd35523a43e1189252f158ae699\core-ktx-1.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7293ee69efc00ed1b5a2ec59fff69361\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7293ee69efc00ed1b5a2ec59fff69361\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\318ae329865cdf557d36f8f7ba19604e\jetified-firebase-auth-11.6.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\318ae329865cdf557d36f8f7ba19604e\jetified-firebase-auth-11.6.2\AndroidManifest.xml:17:5-43
+MERGED from [com.firebaseui:firebase-ui-database:2.3.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4805d4493baf485e2d474dd99ab9ffae\jetified-firebase-ui-database-2.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:2.3.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4805d4493baf485e2d474dd99ab9ffae\jetified-firebase-ui-database-2.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\f2cb149508fbcf4d10f38906554d7dfe\jetified-firebase-database-11.6.2\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\f2cb149508fbcf4d10f38906554d7dfe\jetified-firebase-database-11.6.2\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\f93b39438ec8fe99a6a3c0ab3c2b745c\firebase-core-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\f93b39438ec8fe99a6a3c0ab3c2b745c\firebase-core-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\50741a8fa37e543ae65d3b7a7366c9f2\jetified-play-services-base-11.6.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\50741a8fa37e543ae65d3b7a7366c9f2\jetified-play-services-base-11.6.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\dda758822847cc867832913cba4c0ed8\jetified-firebase-database-connection-11.6.2\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\dda758822847cc867832913cba4c0ed8\jetified-firebase-database-connection-11.6.2\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\d70899169f0efede0c0dab588cb4f9ba\jetified-firebase-analytics-impl-11.6.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\d70899169f0efede0c0dab588cb4f9ba\jetified-firebase-analytics-impl-11.6.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4a9ac2a3dfe3ce4f651485681d202696\jetified-firebase-common-11.6.2\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4a9ac2a3dfe3ce4f651485681d202696\jetified-firebase-common-11.6.2\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\43941fe3293dd27e0f52741f523b818f\jetified-play-services-tasks-11.6.2\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\43941fe3293dd27e0f52741f523b818f\jetified-play-services-tasks-11.6.2\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\0edbc89239742ae5b577bb948bfabc5b\jetified-play-services-basement-11.6.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\0edbc89239742ae5b577bb948bfabc5b\jetified-play-services-basement-11.6.2\AndroidManifest.xml:17:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\33613757341e9982af16239cdaf38043\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\33613757341e9982af16239cdaf38043\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\bcb82d968beaba5ec7933bf9f77bb400\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\bcb82d968beaba5ec7933bf9f77bb400\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\222f2002da024cb60e24f7679ebe9dd5\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\222f2002da024cb60e24f7679ebe9dd5\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\d4de1886377a5373a2e2a8bec9f209e6\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\d4de1886377a5373a2e2a8bec9f209e6\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\c4d431d8e42c8f91571c6f2811444ed3\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\c4d431d8e42c8f91571c6f2811444ed3\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\6860a0b90fd5002e7d4546cf0afc6db3\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\6860a0b90fd5002e7d4546cf0afc6db3\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\eacbd0df0ae540f6b9bfb15ca61a6c77\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\eacbd0df0ae540f6b9bfb15ca61a6c77\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\b3893ee8721cfd39d31b3093eae64d3a\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\b3893ee8721cfd39d31b3093eae64d3a\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\fec9acaa401d14d067db557d9b2f4e21\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\fec9acaa401d14d067db557d9b2f4e21\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\e9d9d8569c22ba6415b464556d13e521\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\e9d9d8569c22ba6415b464556d13e521\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\2968a8f90999189ae29324a4f1f7ce37\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\2968a8f90999189ae29324a4f1f7ce37\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\45f8e6cd9ac9df5aa8506d85f445131b\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\45f8e6cd9ac9df5aa8506d85f445131b\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\f3a1a18d2529ffe594261761beb893fd\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\f3a1a18d2529ffe594261761beb893fd\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\2e7693e9daf516f382a3f133d643d148\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\2e7693e9daf516f382a3f133d643d148\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\a9bdd12e8f748b002d6afe51fc925f87\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\a9bdd12e8f748b002d6afe51fc925f87\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4e1800303e858e0bcd1c92f5af8128db\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4e1800303e858e0bcd1c92f5af8128db\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\eba7b031104f8269d1a6422248108eee\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\eba7b031104f8269d1a6422248108eee\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\77f98cbed359474880d77350a356799c\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\77f98cbed359474880d77350a356799c\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\e0fbe931aee3b8f6ac6e777aac58123c\core-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\e0fbe931aee3b8f6ac6e777aac58123c\core-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\a798c4a845ddd20279a70b8d53a8211c\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\a798c4a845ddd20279a70b8d53a8211c\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\dafde8500cbfb98e37130188269bc632\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\dafde8500cbfb98e37130188269bc632\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\689c4290cde174ca1493e888a574434a\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\689c4290cde174ca1493e888a574434a\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\024ea0ce50edbf5c6fb56a3095e32be1\lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\024ea0ce50edbf5c6fb56a3095e32be1\lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\8ba5b729052f88216dffbb408f465dd3\lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\8ba5b729052f88216dffbb408f465dd3\lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\c4e320634a0f8a23763d57065c3c0af6\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\c4e320634a0f8a23763d57065c3c0af6\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\f7d87f92e95a723143dc057eb2eaef1d\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\f7d87f92e95a723143dc057eb2eaef1d\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\e77b0c5b38e8d3dd2a41d3ae5eae87c4\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\e77b0c5b38e8d3dd2a41d3ae5eae87c4\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\c592519929bea829a1e2746ee5b673df\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\c592519929bea829a1e2746ee5b673df\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\534686bb0282c6c8752592654be626a8\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\534686bb0282c6c8752592654be626a8\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7d2c34d56d71a17dc6e39915268c3570\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7d2c34d56d71a17dc6e39915268c3570\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\094377495ab56eb59d4debe8cb869963\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\094377495ab56eb59d4debe8cb869963\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\620b73c2dd41bf2cafa1b31d786df937\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\620b73c2dd41bf2cafa1b31d786df937\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\35eb5c1a0615116fbbbe1dd5ebbea155\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\35eb5c1a0615116fbbbe1dd5ebbea155\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\0821a2f26afa9defdad13ef23a3194cf\firebase-auth-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\0821a2f26afa9defdad13ef23a3194cf\firebase-auth-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\5b931c047893b68446beda1e2b3de035\firebase-database-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\5b931c047893b68446beda1e2b3de035\firebase-database-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\1acba7771a9ccf1a09f55a612cf66301\play-services-base-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\1acba7771a9ccf1a09f55a612cf66301\play-services-base-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\35c03891cce3b8d3121ba30252a8edf3\play-services-basement-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\35c03891cce3b8d3121ba30252a8edf3\play-services-basement-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\b3a5189b04854db7a2d1396ec6c63ab5\firebase-common-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\b3a5189b04854db7a2d1396ec6c63ab5\firebase-common-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\8ee2e04a154979234fe04f8461c1a7a3\play-services-tasks-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\8ee2e04a154979234fe04f8461c1a7a3\play-services-tasks-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\46890267210d216ebc3b8d231530408a\firebase-database-connection-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\46890267210d216ebc3b8d231530408a\firebase-database-connection-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\52288e5a40264667843e879b9cb88365\firebase-analytics-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\52288e5a40264667843e879b9cb88365\firebase-analytics-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\01b7f593bf5c3b45a79ce325020aab25\firebase-analytics-impl-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\01b7f593bf5c3b45a79ce325020aab25\firebase-analytics-impl-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\eb7df390c8ec2cb3c30a5e95c0029930\firebase-iid-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\eb7df390c8ec2cb3c30a5e95c0029930\firebase-iid-license-11.6.2\AndroidManifest.xml:4:5-43
+INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml
+INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml
+		ADDED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AS imp projects\DRONEAPP\DRONEAPP\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebaseui:firebase-ui-database:2.3.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4805d4493baf485e2d474dd99ab9ffae\jetified-firebase-ui-database-2.3.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\d70899169f0efede0c0dab588cb4f9ba\jetified-firebase-analytics-impl-11.6.2\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\d70899169f0efede0c0dab588cb4f9ba\jetified-firebase-analytics-impl-11.6.2\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:2.3.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4805d4493baf485e2d474dd99ab9ffae\jetified-firebase-ui-database-2.3.0\AndroidManifest.xml:11:22-64
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:2.3.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4805d4493baf485e2d474dd99ab9ffae\jetified-firebase-ui-database-2.3.0\AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\0edbc89239742ae5b577bb948bfabc5b\jetified-play-services-basement-11.6.2\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\0edbc89239742ae5b577bb948bfabc5b\jetified-play-services-basement-11.6.2\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:2.3.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4805d4493baf485e2d474dd99ab9ffae\jetified-firebase-ui-database-2.3.0\AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:2.3.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4805d4493baf485e2d474dd99ab9ffae\jetified-firebase-ui-database-2.3.0\AndroidManifest.xml:15:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\50741a8fa37e543ae65d3b7a7366c9f2\jetified-play-services-base-11.6.2\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\50741a8fa37e543ae65d3b7a7366c9f2\jetified-play-services-base-11.6.2\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\50741a8fa37e543ae65d3b7a7366c9f2\jetified-play-services-base-11.6.2\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\50741a8fa37e543ae65d3b7a7366c9f2\jetified-play-services-base-11.6.2\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\d70899169f0efede0c0dab588cb4f9ba\jetified-firebase-analytics-impl-11.6.2\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\d70899169f0efede0c0dab588cb4f9ba\jetified-firebase-analytics-impl-11.6.2\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\d70899169f0efede0c0dab588cb4f9ba\jetified-firebase-analytics-impl-11.6.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\d70899169f0efede0c0dab588cb4f9ba\jetified-firebase-analytics-impl-11.6.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\d70899169f0efede0c0dab588cb4f9ba\jetified-firebase-analytics-impl-11.6.2\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\d70899169f0efede0c0dab588cb4f9ba\jetified-firebase-analytics-impl-11.6.2\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\d70899169f0efede0c0dab588cb4f9ba\jetified-firebase-analytics-impl-11.6.2\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\d70899169f0efede0c0dab588cb4f9ba\jetified-firebase-analytics-impl-11.6.2\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\832d77cbd29b6ca7701176e096087f18\jetified-firebase-analytics-11.6.2\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:25:17-71
+permission#com.example.droneapp.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:27:22-76
+uses-permission#com.example.droneapp.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:27:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:31:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:31:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:31:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:31:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:32:13-35:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.example.droneapp
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:32:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:33:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:34:27-58
+category#com.example.droneapp
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:34:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:40:9-44:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:40:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:40:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:41:13-43:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:41:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:42:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\7ecd057a08066ebdaa16f11aeb8ede1d\jetified-firebase-iid-11.6.2\AndroidManifest.xml:42:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4a9ac2a3dfe3ce4f651485681d202696\jetified-firebase-common-11.6.2\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4a9ac2a3dfe3ce4f651485681d202696\jetified-firebase-common-11.6.2\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4a9ac2a3dfe3ce4f651485681d202696\jetified-firebase-common-11.6.2\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4a9ac2a3dfe3ce4f651485681d202696\jetified-firebase-common-11.6.2\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.6.2] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\4a9ac2a3dfe3ce4f651485681d202696\jetified-firebase-common-11.6.2\AndroidManifest.xml:6:79-143
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\024ea0ce50edbf5c6fb56a3095e32be1\lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\024ea0ce50edbf5c6fb56a3095e32be1\lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\024ea0ce50edbf5c6fb56a3095e32be1\lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\024ea0ce50edbf5c6fb56a3095e32be1\lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\MALIK MUNEEB\.gradle\caches\transforms-2\files-2.1\024ea0ce50edbf5c6fb56a3095e32be1\lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
